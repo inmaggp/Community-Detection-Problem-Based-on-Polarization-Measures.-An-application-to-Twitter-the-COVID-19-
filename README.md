@@ -9,7 +9,7 @@ file_2. It includes a complete list of interactions considering numerical IDs. T
 file_3. It includes the membership degree of each node of the weak component to the poles \eta_{T_A} and \eta_{T_B}. Probabilities of being a "detractor" or a "supporter" of the Spanish government, represented by respective membership degrees \eta_{T_A} and \eta_{T_B}.
 
 
-RESULTS. In this file we show the obtained results when applying the Louvain algorithm and the Polarization Louvain algorithm for several values of the balancing factor \alpha, considering the scenarios in which \varphi=\max and \phi=\min as well as \varphi=\max and \phi=\min.
+RESULTS. In this file we show the obtained results when applying the Louvain algorithm and the Polarization Louvain algorithm for several values of the balancing factor \alpha, considering the scenarios in which \varphi=\max and \phi=\min as well as \varphi=\max and \phi=\min. In both cases, we consider the negation operator N(x)=1-x.
 		Communities have a numerical ID assigned; each scenario is represented in a column, so the number represents the community to which the corresponding node is assigned.
 		Here we show the label assigned to each scenario.
 		Case_0 : Louvain algorithm.
